@@ -1,0 +1,9 @@
+torch==1.11.0
+pandas==2.3.3
+numpy==1.23.0
+pyg==2.1.0
+matplotlib==3.9.4
+tqdm==4.67.1
+pygeohash==1.2.0
+torch-scatter=2.0.9
+torch-sparse=0.6.15
